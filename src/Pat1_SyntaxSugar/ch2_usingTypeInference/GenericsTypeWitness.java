@@ -1,4 +1,4 @@
-package Pat1_SyntaxSugar.usingTypeInference;
+package Pat1_SyntaxSugar.ch2_usingTypeInference;
 
 import java.util.function.Consumer;
 
