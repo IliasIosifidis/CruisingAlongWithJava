@@ -1,4 +1,4 @@
-package Pat1_SyntaxSugar.ch2_usingTypeInference;
+package part1_SyntaxSugar.ch2_usingTypeInference;
 
 public class TypeInferred {
   static void main() {

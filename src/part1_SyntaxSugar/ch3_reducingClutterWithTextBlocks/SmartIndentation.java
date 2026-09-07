@@ -1,4 +1,4 @@
-package Pat1_SyntaxSugar.ch3_reducingClutterWithTextBlocks;
+package part1_SyntaxSugar.ch3_reducingClutterWithTextBlocks;
 
 public class SmartIndentation {
   public static String smartIndentation(){

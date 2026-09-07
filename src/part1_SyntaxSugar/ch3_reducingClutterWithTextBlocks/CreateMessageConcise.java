@@ -1,4 +1,4 @@
-package Pat1_SyntaxSugar.ch3_reducingClutterWithTextBlocks;
+package part1_SyntaxSugar.ch3_reducingClutterWithTextBlocks;
 
 public class CreateMessageConcise {
   public static String createMessage() {

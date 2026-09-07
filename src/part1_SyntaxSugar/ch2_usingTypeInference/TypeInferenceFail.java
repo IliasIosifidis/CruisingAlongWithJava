@@ -1,4 +1,4 @@
-package Pat1_SyntaxSugar.ch2_usingTypeInference;
+package part1_SyntaxSugar.ch2_usingTypeInference;
 
 import java.util.List;
 
