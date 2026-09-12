@@ -5,7 +5,7 @@ import part4_Modularization.creatingmodules.spaceinfov1.space.src.main.java.iss.
 import part4_Modularization.creatingmodules.spaceinfov1.space.src.main.java.space.SpaceStation;
 import part4_Modularization.creatingmodules.spaceinfov1.space.src.main.java.space.SpaceStationInfo;
 
-public class ISSSpaceStation implements SpaceStation {
+public class ISSSpaceStation implements SpaceStation{
   public SpaceStationInfo lookup() {
     return new SpaceStationInfo(
             new ISSLocation().lookupLocation(),
